@@ -1,6 +1,10 @@
 # [Latin square problem](https://en.wikipedia.org/wiki/Latin_square)
+
+In both tasks I used **back-trace** and **forward-checking** tricks to impleament.
+
+
 ## Task1 
-  In task1.cpp we take the dimension of  [latin square](https://en.wikipedia.org/wiki/Latin_square) as input and give you 
+  In task1.cpp we take the dimension of [latin square](https://en.wikipedia.org/wiki/Latin_square) as input and give you 
   a matric (n * n) as a solution.
 
 ### Example
